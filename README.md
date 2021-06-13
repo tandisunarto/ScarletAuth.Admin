@@ -1,1 +1,0 @@
-# ScarletAuth.Admin

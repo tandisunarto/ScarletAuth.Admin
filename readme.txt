@@ -1,4 +1,4 @@
-Update database before running the app    
+Update database before running the app
 -------------------------------------------------------------------
 
 dotnet ef database update -c IdentityServerDataProtectionDbContext

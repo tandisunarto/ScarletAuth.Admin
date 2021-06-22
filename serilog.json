@@ -14,7 +14,7 @@
                 "Name": "File",
                 "Args": {
                     "path": "Log/skoruba_admin.txt",
-                    "rollingInterval": "Day"
+                    "rollingInterval": "Day"                    
                 }
             },
             {
